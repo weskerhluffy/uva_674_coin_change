@@ -6,7 +6,6 @@ Created on 25 dic 2019
 '''
 # XXX: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=615
 
-
 import math
 import os
 import random
